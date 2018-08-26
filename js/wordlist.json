@@ -75,7 +75,7 @@
 		"local":11,
 		"global":11,
 		"word":"To activate the bank account, we need your ID card.",
-		"meaning":"계좌를 활성화할려면, 우리는 당신의 ID 카드가 필요합니다."
+		"meaning":"계좌를 활성화하려면, 우리는 당신의 ID 카드가 필요합니다."
 	}, 
 	{
 		"level":1,
@@ -747,7 +747,7 @@
 		"local":107,
 		"global":107,
 		"word":"inaccessible",
-		"meaning":"(접근이나 도달하기 또는 얻기) 어려윤"
+		"meaning":"(접근이나 도달하기 또는 얻기) 어려운"
 	}, 
 	{
 		"level":1,
@@ -1048,7 +1048,7 @@
 		"local":150,
 		"global":150,
 		"word":"The soldiers were alert to capture an enemy.",
-		"meaning":"변사들은 적을 생포하려고"
+		"meaning":"병사들은 적을 생포하려고 경계하였다."
 	}, 
 	{
 		"level":1,
@@ -1398,7 +1398,7 @@
 		"local":200,
 		"global":200,
 		"word":"incorrect",
-		"meaning":"부정홛한"
+		"meaning":"부정확한"
 	}, 
 	{
 		"level":1,
@@ -1615,7 +1615,7 @@
 		"local":231,
 		"global":231,
 		"word":"incorporate",
-		"meaning":"토합하다"
+		"meaning":"통합하다"
 	}, 
 	{
 		"level":1,
@@ -1748,7 +1748,7 @@
 		"local":250,
 		"global":250,
 		"word":"The master discriminated against women servants.",
-		"meaning":"그 주인은 여자 하이들을 부당하게 대했다."
+		"meaning":"그 주인은 여자 하인들을 부당하게 대했다."
 	}, 
 	{
 		"level":1,
@@ -1811,7 +1811,7 @@
 		"local":259,
 		"global":259,
 		"word":"The accident occurred right before me.",
-		"meaning":"그 사고는 바로 내 여에서 일어났어."
+		"meaning":"그 사고는 바로 내 옆에서 일어났어."
 	}, 
 	{
 		"level":1,
@@ -2364,7 +2364,7 @@
 		"local":338,
 		"global":338,
 		"word":"The new trend would facilitate more growth industry.",
-		"meaning":"새로운 트랜드는 패션사업의 더 큰 성장을 용이하게 할 것이다."
+		"meaning":"새로운 트렌드는 패션사업의 더 큰 성장을 용이하게 할 것이다."
 	}, 
 	{
 		"level":1,
@@ -2455,7 +2455,7 @@
 		"local":351,
 		"global":351,
 		"word":"The program benefits the senior citizens.",
-		"meaning":"그 프로그램은 노년층게게 이로움을 준다."
+		"meaning":"그 프로그램은 노년층에게 이로움을 준다."
 	}, 
 	{
 		"level":1,
@@ -2560,7 +2560,7 @@
 		"local":366,
 		"global":366,
 		"word":"He affected an English accent.",
-		"meaning":"그는 영국산 발름인 척 했다."
+		"meaning":"그는 영국산 발음인 척 했다."
 	}, 
 	{
 		"level":1,
@@ -5143,7 +5143,7 @@
 		"local":735,
 		"global":735,
 		"word":"Primitive people used the simple tools.",
-		"meaning":"원시시대 사라들은 단순한 도구들을 썼다."
+		"meaning":"원시시대 사람들은 단순한 도구들을 썼다."
 	}, 
 	{
 		"level":1,
@@ -5464,7 +5464,7 @@
 		"level":1,
 		"local":781,
 		"global":781,
-		"word":"impute impute A to B",
+		"word":"impute A to B",
 		"meaning":"A를 B의 탓으로 돌리다"
 	}, 
 	{
@@ -5472,7 +5472,7 @@
 		"local":782,
 		"global":782,
 		"word":"They imputed the error to the lawyer who was handling her case.",
-		"meaning":"그들은 그 실수를 그녀의 사건을 다루는 변호사에게 돌렸다."
+		"meaning":"그들은 그 실수를 그녀의 사건을 다루는 변호사의 탓으로 돌렸다."
 	}, 
 	{
 		"level":1,
@@ -5822,7 +5822,7 @@
 		"local":832,
 		"global":832,
 		"word":"My girlfriend is normally abrupt but today, She is kind and friendly.",
-		"meaning":"내 여자 친구는 평소에는 무뚝뚝한데 노릉, 그녀는 친절하고 다정하다."
+		"meaning":"내 여자 친구는 평소에는 무뚝뚝한데 오늘, 그녀는 친절하고 다정하다."
 	}, 
 	{
 		"level":1,
@@ -5836,7 +5836,7 @@
 		"local":834,
 		"global":834,
 		"word":"The volcano suddenly erupted.",
-		"meaning":"그 화산이 가자기 폭발했다."
+		"meaning":"그 화산이 갑자기 폭발했다."
 	}, 
 	{
 		"level":1,
@@ -5850,7 +5850,7 @@
 		"local":836,
 		"global":836,
 		"word":"Most politicians are quite corrupt.",
-		"meaning":"대부분의 정치인들은 꽤 부ㅐ하다."
+		"meaning":"대부분의 정치인들은 꽤 부패하다."
 	}, 
 	{
 		"level":1,
