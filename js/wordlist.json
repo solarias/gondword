@@ -1922,21 +1922,21 @@
 		"level":1,
 		"local":275,
 		"global":275,
-		"word":"demage",
+		"word":"damage",
 		"meaning":"손상하다, 손해를 가하다"
 	}, 
 	{
 		"level":1,
 		"local":276,
 		"global":276,
-		"word":"do demage to",
+		"word":"do damage to",
 		"meaning":"~에 손상을 가하다. / ~에 피해를 주다"
 	}, 
 	{
 		"level":1,
 		"local":277,
 		"global":277,
-		"word":"The thief did demage to the window.",
+		"word":"The thief did damage to the window.",
 		"meaning":"그 도둑은 그 창문에 손상을 가했다."
 	}, 
 	{
@@ -3077,7 +3077,7 @@
 		"level":1,
 		"local":440,
 		"global":440,
-		"word":"International marriage is the nom. not an exception these days.",
+		"word":"International marriage is the norm. not an exception these days.",
 		"meaning":"요즘엔 국제결혼이 예외가 아닌 일반적인 일이다."
 	}, 
 	{
@@ -7886,8 +7886,8 @@
 		"level":1,
 		"local":1127,
 		"global":1127,
-		"word":"substitute A for B A를 B",
-		"meaning":"대신에 쓰다"
+		"word":"substitute A for B",
+		"meaning":"A를 B 대신에 쓰다"
 	}, 
 	{
 		"level":1,
@@ -9552,14 +9552,14 @@
 		"level":1,
 		"local":1365,
 		"global":1365,
-		"word":"Te wind is blowing from the wast.",
+		"word":"The wind is blowing from the east.",
 		"meaning":"바람이 동쪽에서 불다."
 	}, 
 	{
 		"level":1,
 		"local":1366,
 		"global":1366,
-		"word":"Te wind blew off my hat.",
+		"word":"The wind blew off my hat.",
 		"meaning":"바람이 내 모자를 날려 보냈다."
 	}, 
 	{
@@ -9706,7 +9706,7 @@
 		"level":1,
 		"local":1387,
 		"global":1387,
-		"word":"Te war destructed the whole city.",
+		"word":"The war destructed the whole city.",
 		"meaning":"그 전쟁은 도시 전체를 파괴했다."
 	}, 
 	{
@@ -9896,14 +9896,14 @@
 		"local":1414,
 		"global":1414,
 		"word":"prefer to V",
-		"meaning":"~하기를 좋아하다"
+		"meaning":"V 하기를 좋아하다"
 	}, 
 	{
 		"level":1,
 		"local":1415,
 		"global":1415,
-		"word":"prefer A to V A가 to V",
-		"meaning":"기를 선호하다"
+		"word":"prefer A to B",
+		"meaning":"A를 B보다 선호한다"
 	}, 
 	{
 		"level":1,
@@ -12800,7 +12800,7 @@
 		"level":1,
 		"local":1829,
 		"global":1829,
-		"word":"chrinic",
+		"word":"chronic",
 		"meaning":"만성의, 고질의"
 	}, 
 	{
@@ -13878,7 +13878,7 @@
 		"level":1,
 		"local":1983,
 		"global":1983,
-		"word":"He commutes between Seoul and Daeieon.",
+		"word":"He commutes between Seoul and Daejeon.",
 		"meaning":"그는 서울과 대전 사이를 통근한다."
 	}, 
 	{
