@@ -532,25 +532,29 @@ let wordStep = function (cmd, arg) {
       break;
     // 앞, 뒤 이동, 종료
     case "back":
-      // 단계 낮추기
-      data.progress -= 1;
-      // 음성 중단
-      voice("$stop");
-      clearTimeout(auto.word);
-      clearTimeout(auto.meaning);
-      // 단어 이동
-      wordStep("setup");
+      // 단계 낮추기(낮출 수 있다면)
+      if (data.progress - 1 >= 1) {
+        data.progress -= 1;
+        // 음성 중단
+        voice("$stop");
+        clearTimeout(auto.word);
+        clearTimeout(auto.meaning);
+        // 단어 이동
+        wordStep("setup");
+      }
 
       break;
     case "next":
-      // 단계 높이기
-      data.progress += 1;
-      // 음성 중단
-      voice("$stop")
-      clearTimeout(auto.word);
-      clearTimeout(auto.meaning);
-      // 단어 이동
-      wordStep("setup");
+      // 단계 높이기(높힐 수 있다면)
+      if (data.progress < wordarr.length) {
+        data.progress += 1;
+        // 음성 중단
+        voice("$stop")
+        clearTimeout(auto.word);
+        clearTimeout(auto.meaning);
+        // 단어 이동
+        wordStep("setup");
+      }
 
       break;
     case "exit":
