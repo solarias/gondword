@@ -900,7 +900,7 @@
 		"level":1,
 		"local":129,
 		"global":129,
-		"word":"Tje results of this observation ate susceptible of several interpretations.",
+		"word":"The results of this observation ate susceptible of several interpretations.",
 		"meaning":"이 관찰의 결과들은 여러 가지로 해석할 수 있다."
 	}, 
 	{
@@ -1152,8 +1152,8 @@
 		"level":1,
 		"local":165,
 		"global":165,
-		"word":"rse",
-		"meaning":"더 심한, 더 나쁜"
+		"word":"worse",
+		"meaning":"더 심한, 더 나쁜 (bad의 비교급)"
 	}, 
 	{
 		"level":1,
@@ -1621,7 +1621,7 @@
 		"level":1,
 		"local":232,
 		"global":232,
-		"word":"The corporate headquarters are loadted in Boston.",
+		"word":"The corporate headquarters are located in Boston.",
 		"meaning":"그 회사의 본사는 보스턴에 위치하고 있다."
 	}, 
 	{
@@ -1698,7 +1698,7 @@
 		"level":1,
 		"local":243,
 		"global":243,
-		"word":"The number of middle class people is on the decreasse.",
+		"word":"The number of middle class people is on the decrease.",
 		"meaning":"중상층의 숫자는 감소세에 있다."
 	}, 
 	{
@@ -2160,7 +2160,7 @@
 		"level":1,
 		"local":309,
 		"global":309,
-		"word":"Let me intriduce myself.",
+		"word":"Let me introduce myself.",
 		"meaning":"자기소개를 하겠습니다."
 	}, 
 	{
@@ -2265,7 +2265,7 @@
 		"level":1,
 		"local":324,
 		"global":324,
-		"word":"He is obese due to high calory food.",
+		"word":"He is obese due to high-calorie food.",
 		"meaning":"그는 고칼로리 음식 때문에 뚱뚱하다."
 	}, 
 	{
@@ -2364,7 +2364,7 @@
 		"local":338,
 		"global":338,
 		"word":"The new trend would facilitate more growth industry.",
-		"meaning":"새로운 트렌드는 패션사업의 더 큰 성장을 용이하게 할 것이다."
+		"meaning":"새로운 유행은 패션사업의 더 큰 성장을 용이하게 할 것이다."
 	}, 
 	{
 		"level":1,
@@ -2909,7 +2909,7 @@
 		"level":1,
 		"local":416,
 		"global":416,
-		"word":"The hospiral is remote from my house.",
+		"word":"The hospital is remote from my house.",
 		"meaning":"병원은 우리집으로부터 멀다."
 	}, 
 	{
@@ -2930,8 +2930,8 @@
 		"level":1,
 		"local":419,
 		"global":419,
-		"word":"To change your nationality, you have to go to Immigration and Naturalization Service(INS).",
-		"meaning":"너의 국적을 바꾸기 위해서는, 이민귀화국에 가야 한다."
+		"word":"Each of us has a different nationality.",
+		"meaning":"우리들 각자는 서로 다른 국적을 가지고 있다."
 	}, 
 	{
 		"level":1,
@@ -2972,7 +2972,7 @@
 		"level":1,
 		"local":425,
 		"global":425,
-		"word":"He is an innocent man like aChild.",
+		"word":"He is an innocent man like a child.",
 		"meaning":"그는 어린 아이 같이 순진한 사람이다."
 	}, 
 	{
@@ -3175,7 +3175,7 @@
 		"level":1,
 		"local":454,
 		"global":454,
-		"word":"notiveable",
+		"word":"noticeable",
 		"meaning":"현저한, 눈에 띄는"
 	}, 
 	{
@@ -3196,7 +3196,7 @@
 		"level":1,
 		"local":457,
 		"global":457,
-		"word":"be noted ofr",
+		"word":"be noted of",
 		"meaning":"~으로 유명하다"
 	}, 
 	{
@@ -3204,7 +3204,7 @@
 		"local":458,
 		"global":458,
 		"word":"He is noted for romantic songs.",
-		"meaning":"그는 로매틱한 노래들로 주목받는다."
+		"meaning":"그는 로맨틱한 노래들로 주목받는다."
 	}, 
 	{
 		"level":1,
@@ -3701,7 +3701,7 @@
 		"local":529,
 		"global":529,
 		"word":"Flight passengers are waiting in line at the boarding gate.",
-		"meaning":"비행 승객들이 탑승구에서 즐서 기다린다."
+		"meaning":"비행 승객들이 탑승구에서 줄서 기다린다."
 	}, 
 	{
 		"level":1,
@@ -3904,7 +3904,7 @@
 		"local":558,
 		"global":558,
 		"word":"dispense",
-		"meaning":"제공하다, 배풀다"
+		"meaning":"제공하다, 베풀다"
 	}, 
 	{
 		"level":1,
@@ -4051,13 +4051,13 @@
 		"local":579,
 		"global":579,
 		"word":"microphone",
-		"meaning":"바이크"
+		"meaning":"마이크"
 	}, 
 	{
 		"level":1,
 		"local":580,
 		"global":580,
-		"word":"The singer fropped the microphone.",
+		"word":"The singer dropped the microphone.",
 		"meaning":"그 가수는 마이크를 떨어뜨렸다."
 	}, 
 	{
@@ -4149,7 +4149,7 @@
 		"local":593,
 		"global":593,
 		"word":"transplant organs",
-		"meaning":"자이를 이식하다"
+		"meaning":"장기를 이식하다"
 	}, 
 	{
 		"level":1,
@@ -4352,14 +4352,14 @@
 		"local":622,
 		"global":622,
 		"word":"compliant",
-		"meaning":"고분고분한, 남이 시키 는대로 하는"
+		"meaning":"고분고분한, 남이 시키는대로 하는"
 	}, 
 	{
 		"level":1,
 		"local":623,
 		"global":623,
 		"word":"comply with the rules",
-		"meaning":"규치을 준수하다"
+		"meaning":"규칙을 준수하다"
 	}, 
 	{
 		"level":1,
@@ -4912,7 +4912,7 @@
 		"local":702,
 		"global":702,
 		"word":"Children do better when they are praised.",
-		"meaning":"아이들은 칭찬받으면 더 자한다."
+		"meaning":"아이들은 칭찬받으면 더 잘한다."
 	}, 
 	{
 		"level":1,
@@ -5079,7 +5079,7 @@
 		"level":1,
 		"local":726,
 		"global":726,
-		"word":"unoressuve",
+		"word":"impressive",
 		"meaning":"인상에 남는, 인상적인"
 	}, 
 	{
@@ -5171,7 +5171,7 @@
 		"local":739,
 		"global":739,
 		"word":"comprise",
-		"meaning":"구서하다, 구성되다"
+		"meaning":"구성하다, 구성되다"
 	}, 
 	{
 		"level":1,
@@ -5395,7 +5395,7 @@
 		"local":771,
 		"global":771,
 		"word":"Don’t disappoint me or I will leave you forever.",
-		"meaning":"나를 실망시키지마라. 아니면 나는 너한테서 영원히 떠날 것이다."
+		"meaning":"나를 실망시키지 마라. 아니면 나는 너한테서 영원히 떠날 것이다."
 	}, 
 	{
 		"level":1,
@@ -5541,8 +5541,8 @@
 		"level":1,
 		"local":792,
 		"global":792,
-		"word":"You are required to submit a resume and a coverletter for application.",
-		"meaning":"당신은 지원하기 위해 이력서와 자기소개서를 내야합니다."
+		"word":"You are required to submit a resume and a cover letter for application.",
+		"meaning":"당신은 지원하기 위해 이력서와 자기소개서를 내야 합니다."
 	}, 
 	{
 		"level":1,
@@ -5591,7 +5591,7 @@
 		"local":799,
 		"global":799,
 		"word":"rational",
-		"meaning":"이상의, 이상저인"
+		"meaning":"이상의, 이상적인"
 	}, 
 	{
 		"level":1,
@@ -5626,7 +5626,7 @@
 		"local":804,
 		"global":804,
 		"word":"ridiculous",
-		"meaning":"웃긴, 말도 안되는"
+		"meaning":"웃긴, 말도 안 되는"
 	}, 
 	{
 		"level":1,
@@ -5647,7 +5647,7 @@
 		"local":807,
 		"global":807,
 		"word":"You have to correct the answer if they are wrong.",
-		"meaning":"답들이 틀렸다면 너는 그것들을 고쳐야한다."
+		"meaning":"답들이 틀렸다면 너는 그것들을 고쳐야 한다."
 	}, 
 	{
 		"level":1,
@@ -5766,13 +5766,13 @@
 		"local":824,
 		"global":824,
 		"word":"May I interrupt you for a while?",
-		"meaning":"잠깐 시례해도 괜찮겠습니까?"
+		"meaning":"잠깐 실례해도 괜찮겠습니까?"
 	}, 
 	{
 		"level":1,
 		"local":825,
 		"global":825,
-		"word":"Please dom’t interrupt.",
+		"word":"Please don’t interrupt.",
 		"meaning":"방해하지 마세요."
 	}, 
 	{
@@ -5856,7 +5856,7 @@
 		"level":1,
 		"local":837,
 		"global":837,
-		"word":"olitician",
+		"word":"politician",
 		"meaning":"정치인"
 	}, 
 	{
@@ -5941,7 +5941,7 @@
 		"local":849,
 		"global":849,
 		"word":"transcend",
-		"meaning":"(경험, 일해력 등의 범위를) 넘다, 초월하다"
+		"meaning":"(경험, 이해력 등의 범위를) 넘다, 초월하다"
 	}, 
 	{
 		"level":1,
@@ -6032,7 +6032,7 @@
 		"local":862,
 		"global":862,
 		"word":"ascribe",
-		"meaning":"~의 탓으로 돌리다. / ~에 속하다고 생각하다"
+		"meaning":"~의 탓으로 돌리다. / ~에 속한다고 생각하다"
 	}, 
 	{
 		"level":1,
@@ -6052,7 +6052,7 @@
 		"level":1,
 		"local":865,
 		"global":865,
-		"word":"These poems are ascribed to Eilot.",
+		"word":"These poems are ascribed to Eliot.",
 		"meaning":"이 시들은 엘리엇의 작품으로 여겨지고 있다."
 	}, 
 	{
@@ -6095,14 +6095,14 @@
 		"local":871,
 		"global":871,
 		"word":"subscribe to a magazine",
-		"meaning":"잡지에 구독 신청"
+		"meaning":"잡지에 구독 신청하다"
 	}, 
 	{
 		"level":1,
 		"local":872,
 		"global":872,
 		"word":"subscribe to his view",
-		"meaning":"그의 견해에지지"
+		"meaning":"그의 견해에 지지하다"
 	}, 
 	{
 		"level":1,
@@ -6130,7 +6130,7 @@
 		"local":876,
 		"global":876,
 		"word":"He escaped from the isolated area.",
-		"meaning":"그는 고립된 지역에서 탈충했다."
+		"meaning":"그는 고립된 지역에서 탈출했다."
 	}, 
 	{
 		"level":1,
@@ -6221,7 +6221,7 @@
 		"local":889,
 		"global":889,
 		"word":"assemble",
-		"meaning":"으다, 소집하다, 조립하다"
+		"meaning":"모으다, 소집하다, 조립하다"
 	}, 
 	{
 		"level":1,
@@ -6417,14 +6417,14 @@
 		"local":917,
 		"global":917,
 		"word":"sensational",
-		"meaning":"선풍적 바응을 일츠키는"
+		"meaning":"선풍적 반응을 일으키는"
 	}, 
 	{
 		"level":1,
 		"local":918,
 		"global":918,
 		"word":"He was sensational with the new style.",
-		"meaning":"그는 새로운 스타일로 선풍적인 방응을 일으켰다."
+		"meaning":"그는 새로운 스타일로 선풍적인 반응을 일으켰다."
 	}, 
 	{
 		"level":1,
@@ -6452,7 +6452,7 @@
 		"local":922,
 		"global":922,
 		"word":"You should observe law wherever you are.",
-		"meaning":"너는 네가 어디 있든지 간에 법을 준수해야한다."
+		"meaning":"너는 네가 어디 있든지 간에 법을 준수해야 한다."
 	}, 
 	{
 		"level":1,
@@ -6494,7 +6494,7 @@
 		"local":928,
 		"global":928,
 		"word":"reserve",
-		"meaning":"예약하다, 비욱하다. / 감정을 드러내지 않다. / 보류하다"
+		"meaning":"예약하다, 비축하다. / 감정을 드러내지 않다. / 보류하다"
 	}, 
 	{
 		"level":1,
@@ -6508,7 +6508,7 @@
 		"local":930,
 		"global":930,
 		"word":"Reserve your energy so that you can use full power at the competition.",
-		"meaning":"네가 시합에서 풀파워를 사용할 수 있도록 에너지를 비축해놓아라."
+		"meaning":"네가 시합에서 전력을 사용할 수 있도록 에너지를 비축해놓아라."
 	}, 
 	{
 		"level":1,
@@ -6557,7 +6557,7 @@
 		"local":937,
 		"global":937,
 		"word":"He deserved his lame.",
-		"meaning":"그는 비난받을 만 했다."
+		"meaning":"그는 비난 받을 만 했다."
 	}, 
 	{
 		"level":1,
@@ -6585,7 +6585,7 @@
 		"local":941,
 		"global":941,
 		"word":"You can conserve the fruit.",
-		"meaning":"너는 그 과일을 설탕 절임해도 돼."
+		"meaning":"너는 그 과일을 설탕절임해도 돼."
 	}, 
 	{
 		"level":1,
@@ -6977,7 +6977,7 @@
 		"local":997,
 		"global":997,
 		"word":"The executive tried to consolidate his power by lobbying.",
-		"meaning":"그 대표는 로비를 통해 권력을 강화하려했다."
+		"meaning":"그 대표는 로비를 통해 권력을 강화하려 했다."
 	}, 
 	{
 		"level":1,
@@ -7089,7 +7089,7 @@
 		"local":1013,
 		"global":1013,
 		"word":"I expect him to come back.",
-		"meaning":"나는 그가 들아올 것이라고 기대해."
+		"meaning":"나는 그가 돌아올 것이라고 기대해."
 	}, 
 	{
 		"level":1,
@@ -7173,7 +7173,7 @@
 		"local":1025,
 		"global":1025,
 		"word":"a respected leader",
-		"meaning":"존경받는 지도자"
+		"meaning":"존경 받는 지도자"
 	}, 
 	{
 		"level":1,
@@ -7250,7 +7250,7 @@
 		"local":1036,
 		"global":1036,
 		"word":"A prospect for peace is optimistic.",
-		"meaning":"평화에 대한 전망은 낙관저이다."
+		"meaning":"평화에 대한 전망은 낙관적이다."
 	}, 
 	{
 		"level":1,
@@ -7271,7 +7271,7 @@
 		"local":1039,
 		"global":1039,
 		"word":"Grand Canyon has spectacular scenery.",
-		"meaning":"그랜드 캐넌은 장관의 풀경을 가지고 있다."
+		"meaning":"그랜드캐넌은 장관의 풍경을 가지고 있다."
 	}, 
 	{
 		"level":1,
@@ -7313,7 +7313,7 @@
 		"local":1045,
 		"global":1045,
 		"word":"Fashion industries are prospering.",
-		"meaning":"패션 산업이 번선하고 있다."
+		"meaning":"패션 산업이 번성하고 있다."
 	}, 
 	{
 		"level":1,
@@ -7383,7 +7383,7 @@
 		"local":1055,
 		"global":1055,
 		"word":"motivate",
-		"meaning":"~의 이유가 되다, 동기부 여하다"
+		"meaning":"~의 이유가 되다, 동기부여하다"
 	}, 
 	{
 		"level":1,
@@ -7410,8 +7410,8 @@
 		"level":1,
 		"local":1059,
 		"global":1059,
-		"word":"The correct date has expired so we need to recontract.",
-		"meaning":"계약 날까지 만료해서 우리는 계약을 해야 한다."
+		"word":"The contract date has expired.",
+		"meaning":"계약 날짜가 만료하였다."
 	}, 
 	{
 		"level":1,
@@ -7543,15 +7543,15 @@
 		"level":1,
 		"local":1078,
 		"global":1078,
-		"word":"assist inassist with",
+		"word":"assist in, assist with",
 		"meaning":"~을 돕다"
 	}, 
 	{
 		"level":1,
 		"local":1079,
 		"global":1079,
-		"word":"A가 B",
-		"meaning":"하는 것을 돕다"
+		"word":"assist A in B",
+		"meaning":"A가 B 하는 것을 돕다"
 	}, 
 	{
 		"level":1,
@@ -7578,22 +7578,22 @@
 		"level":1,
 		"local":1083,
 		"global":1083,
-		"word":"insist that S + V that",
-		"meaning":"이하를 주장하다"
+		"word":"insist that ~",
+		"meaning":"~라고 주장하다"
 	}, 
 	{
 		"level":1,
 		"local":1084,
 		"global":1084,
 		"word":"I insist that he should be innocent.",
-		"meaning":"나는 그가 무죄어야 한다고 주장한다."
+		"meaning":"나는 그가 무죄일 것이라고 주장한다."
 	}, 
 	{
 		"level":1,
 		"local":1085,
 		"global":1085,
 		"word":"persist",
-		"meaning":"주장하다, 고집하다. / 지속하다, 족속하다"
+		"meaning":"주장하다, 고집하다. / 지속하다, 존속하다"
 	}, 
 	{
 		"level":1,
@@ -7810,7 +7810,7 @@
 		"local":1116,
 		"global":1116,
 		"word":"He effected a substantial change in the reform plan.",
-		"meaning":"그는 개혁 계획이 실질적 변화를 초례했다."
+		"meaning":"그는 개혁 계획이 실질적 변화를 초래하였다."
 	}, 
 	{
 		"level":1,
@@ -7921,8 +7921,8 @@
 		"level":1,
 		"local":1132,
 		"global":1132,
-		"word":"According to superstition , wedding on a rainy brings happiness to the couple.",
-		"meaning":"미신에 따르면 비오는 날에 결혼하면 그 커플에게 행복을 가져다주었다."
+		"word":"According to superstition, wedding on a rainy brings happiness to the couple.",
+		"meaning":"미신에 따르면 비 오는 날에 결혼하면 그 커플에게 행복을 가져다주었다."
 	}, 
 	{
 		"level":1,
@@ -8363,7 +8363,7 @@
 		"local":1195,
 		"global":1195,
 		"word":"They maintain that she ignited the controversy.",
-		"meaning":"그들은 그녀가 논쟁을 불붙였다고 주장한다."
+		"meaning":"그들은 그녀가 논쟁을 불 붙였다고 주장한다."
 	}, 
 	{
 		"level":1,
@@ -8433,7 +8433,7 @@
 		"local":1205,
 		"global":1205,
 		"word":"be content with",
-		"meaning":"~에 만조하다"
+		"meaning":"~에 만족하다"
 	}, 
 	{
 		"level":1,
@@ -8474,7 +8474,7 @@
 		"level":1,
 		"local":1211,
 		"global":1211,
-		"word":"You had better sbstain from smoking for your health.",
+		"word":"You had better abstain from smoking for your health.",
 		"meaning":"당신은 건강을 위해 담배를 끊는 편이 좋다."
 	}, 
 	{
@@ -8502,7 +8502,7 @@
 		"level":1,
 		"local":1215,
 		"global":1215,
-		"word":"The economy will sustain its growh into next year.",
+		"word":"The economy will sustain its growth into next year.",
 		"meaning":"경제는 성장을 내년까지 지속할 것이다."
 	}, 
 	{
@@ -8524,7 +8524,7 @@
 		"local":1218,
 		"global":1218,
 		"word":"A woman has been detained for investigation about the accident.",
-		"meaning":"한 여자가 그 사고에 대해 조사를 받기위해 구금되었다."
+		"meaning":"한 여자가 그 사고에 대해 조사를 받기 위해 구금되었다."
 	}, 
 	{
 		"level":1,
@@ -8566,7 +8566,7 @@
 		"local":1224,
 		"global":1224,
 		"word":"Patent",
-		"meaning":"특허궈느 특허의"
+		"meaning":"특허권의, 특허의"
 	}, 
 	{
 		"level":1,
@@ -8635,7 +8635,7 @@
 		"level":1,
 		"local":1234,
 		"global":1234,
-		"word":"The knight tempered a seord.",
+		"word":"The knight tempered a sword.",
 		"meaning":"그 기사는 검을 담금질했다."
 	}, 
 	{
@@ -8649,7 +8649,7 @@
 		"level":1,
 		"local":1236,
 		"global":1236,
-		"word":"extensie",
+		"word":"extensive",
 		"meaning":"광범위한"
 	}, 
 	{
@@ -8685,7 +8685,7 @@
 		"local":1241,
 		"global":1241,
 		"word":"I contend that honesty is always worthwhile.",
-		"meaning":"정직은 항상 그만한 가치가 있다고주장합니다."
+		"meaning":"정직은 항상 그만한 가치가 있다고 주장합니다."
 	}, 
 	{
 		"level":1,
@@ -8733,7 +8733,7 @@
 		"level":1,
 		"local":1248,
 		"global":1248,
-		"word":"Intensive reading is required dor a difficult writing.",
+		"word":"Intensive reading is required for a difficult writing.",
 		"meaning":"어려운 글에는 정독이 요구된다."
 	}, 
 	{
@@ -8817,8 +8817,8 @@
 		"level":1,
 		"local":1260,
 		"global":1260,
-		"word":"All employess should attend the seminar.",
-		"meaning":"도든 직원들은 세미나에 참석해야 합니다."
+		"word":"All employees should attend the seminar.",
+		"meaning":"모든 직원들은 세미나에 참석해야 합니다."
 	}, 
 	{
 		"level":1,
@@ -8832,7 +8832,7 @@
 		"local":1262,
 		"global":1262,
 		"word":"the risk attendant on his business.",
-		"meaning":"그의 사업에 수반되는 리스크"
+		"meaning":"그의 사업에 수반되는 위험성"
 	}, 
 	{
 		"level":1,
@@ -8908,7 +8908,7 @@
 		"level":1,
 		"local":1273,
 		"global":1273,
-		"word":"The occupation determines social tstatus.",
+		"word":"The occupation determines social status.",
 		"meaning":"직업이 사회적 지위를 결정한다."
 	}, 
 	{
@@ -8978,7 +8978,7 @@
 		"level":1,
 		"local":1283,
 		"global":1283,
-		"word":"The rich offen invest in the property market.",
+		"word":"The rich often invest in the property market.",
 		"meaning":"부자들은 종종 부동산 시장에 투자한다."
 	}, 
 	{
@@ -9175,7 +9175,7 @@
 		"local":1311,
 		"global":1311,
 		"word":"Isn’t there any preview of the movie?",
-		"meaning":"영화 미리보기 가은 건 없나요?"
+		"meaning":"영화 미리보기 같은 건 없나요?"
 	}, 
 	{
 		"level":1,
@@ -9286,7 +9286,7 @@
 		"level":1,
 		"local":1327,
 		"global":1327,
-		"word":"A cup fo coffee revived him.",
+		"word":"A cup of coffee revived him.",
 		"meaning":"커피 한 잔으로 그는 기운이 났다."
 	}, 
 	{
@@ -9308,7 +9308,7 @@
 		"local":1330,
 		"global":1330,
 		"word":"survive",
-		"meaning":"~보다 오래 살다. / (극복하고) 살아남ㅁ다"
+		"meaning":"~보다 오래 살다. / (극복하고) 살아남다"
 	}, 
 	{
 		"level":1,
@@ -9385,7 +9385,7 @@
 		"local":1341,
 		"global":1341,
 		"word":"Many people revoked their reservations because of rain.",
-		"meaning":"많은 살마들이 비 때문에 예약을 취소했다."
+		"meaning":"많은 사람들이 비 때문에 예약을 취소했다."
 	}, 
 	{
 		"level":1,
@@ -9483,7 +9483,7 @@
 		"local":1355,
 		"global":1355,
 		"word":"Our conversation revolves around music.",
-		"meaning":"우리의 대환는 음악 주변을 돈다. / (대화의 주제가 음악임)"
+		"meaning":"우리의 대화는 음악 주변을 돈다. / (대화의 주제가 음악임)"
 	}, 
 	{
 		"level":1,
@@ -9525,7 +9525,7 @@
 		"local":1361,
 		"global":1361,
 		"word":"He was swamped with debt.",
-		"meaning":"그는 빚에 압도디었다."
+		"meaning":"그는 빚에 압도되었다."
 	}, 
 	{
 		"level":1,
@@ -9538,7 +9538,7 @@
 		"level":1,
 		"local":1363,
 		"global":1363,
-		"word":"He leaned against te wall.",
+		"word":"He leaned against the wall.",
 		"meaning":"그는 벽에 기댔다."
 	}, 
 	{
@@ -9546,7 +9546,7 @@
 		"local":1364,
 		"global":1364,
 		"word":"blow",
-		"meaning":"(바람 등) 불다, 불어날리다"
+		"meaning":"(바람 등) 불다, 불어 날리다"
 	}, 
 	{
 		"level":1,
@@ -9651,7 +9651,7 @@
 		"local":1379,
 		"global":1379,
 		"word":"decline an offer",
-		"meaning":"제안을 거저하다"
+		"meaning":"제안을 거절하다"
 	}, 
 	{
 		"level":1,
@@ -9818,7 +9818,7 @@
 		"level":1,
 		"local":1403,
 		"global":1403,
-		"word":"Don;t bother to see me off.",
+		"word":"Don't bother to see me off.",
 		"meaning":"굳이 애써서 배웅하지 마세요."
 	}, 
 	{
@@ -9952,7 +9952,7 @@
 		"local":1422,
 		"global":1422,
 		"word":"setback",
-		"meaning":"자절"
+		"meaning":"좌절"
 	}, 
 	{
 		"level":1,
@@ -10063,15 +10063,15 @@
 		"level":1,
 		"local":1438,
 		"global":1438,
-		"word":"I informed him of some changes in schedele.",
-		"meaning":"나는 그에게 스커줄에 있어서의 변동사항을 알렸다."
+		"word":"I informed him of some changes in schedule.",
+		"meaning":"나는 그에게 스케줄에 있어서의 변동사항을 알렸다."
 	}, 
 	{
 		"level":1,
 		"local":1439,
 		"global":1439,
 		"word":"an informed guess",
-		"meaning":"정보에 근거한 추측정ㅂ를 다 알고 이해한 후 하는 추측"
+		"meaning":"정보에 근거한 추측"
 	}, 
 	{
 		"level":1,
@@ -10106,7 +10106,7 @@
 		"local":1444,
 		"global":1444,
 		"word":"code",
-		"meaning":"암호로 하다, 법전으로 작성하다. / 암ㅎ, 규칙"
+		"meaning":"암호로 하다, 법전으로 작성하다. / 암호, 규칙"
 	}, 
 	{
 		"level":1,
@@ -10322,7 +10322,7 @@
 		"level":1,
 		"local":1475,
 		"global":1475,
-		"word":"around the world criose",
+		"word":"around the world cruise",
 		"meaning":"세계일주 항해"
 	}, 
 	{
@@ -10344,7 +10344,7 @@
 		"local":1478,
 		"global":1478,
 		"word":"protest his innocence",
-		"meaning":"무죄를 항벼하다"
+		"meaning":"무죄를 항변하다"
 	}, 
 	{
 		"level":1,
@@ -10371,7 +10371,7 @@
 		"level":1,
 		"local":1482,
 		"global":1482,
-		"word":"neureal position",
+		"word":"neutral position",
 		"meaning":"중립의 위치"
 	}, 
 	{
@@ -10406,7 +10406,7 @@
 		"level":1,
 		"local":1487,
 		"global":1487,
-		"word":"It requires patience and diligence to successed.",
+		"word":"It requires patience and diligence to success.",
 		"meaning":"성공하기 위해서는 인내와 근면이 필요하다."
 	}, 
 	{
@@ -10441,7 +10441,7 @@
 		"level":1,
 		"local":1492,
 		"global":1492,
-		"word":"address him as Mr.Lee",
+		"word":"address him as Mr. Lee",
 		"meaning":"그를 이 씨라고 부른다."
 	}, 
 	{
@@ -10574,7 +10574,7 @@
 		"level":1,
 		"local":1511,
 		"global":1511,
-		"word":"daliy routine",
+		"word":"daily routine",
 		"meaning":"일상"
 	}, 
 	{
@@ -10616,7 +10616,7 @@
 		"level":1,
 		"local":1517,
 		"global":1517,
-		"word":"He went broke after his stock droped.",
+		"word":"He went broke after his stock dropped.",
 		"meaning":"그의 주식이 떨어진 이후에 그는 빈털터리가 되었다."
 	}, 
 	{
@@ -10694,7 +10694,7 @@
 		"local":1528,
 		"global":1528,
 		"word":"his harsh punishment",
-		"meaning":"그의심한 처벌"
+		"meaning":"그의 심한 처벌"
 	}, 
 	{
 		"level":1,
@@ -11121,7 +11121,7 @@
 		"local":1589,
 		"global":1589,
 		"word":"upset me",
-		"meaning":"날 열받게 하다"
+		"meaning":"날 열 받게 하다"
 	}, 
 	{
 		"level":1,
@@ -11191,7 +11191,7 @@
 		"local":1599,
 		"global":1599,
 		"word":"company",
-		"meaning":"히사, 함께 한, 동맹"
+		"meaning":"회사, 함께 한, 동맹"
 	}, 
 	{
 		"level":1,
@@ -11282,7 +11282,7 @@
 		"local":1612,
 		"global":1612,
 		"word":"concrete evidence",
-		"meaning":"구체적인 즟거"
+		"meaning":"구체적인 증거"
 	}, 
 	{
 		"level":1,
@@ -11351,8 +11351,8 @@
 		"level":1,
 		"local":1622,
 		"global":1622,
-		"word":"etmic minorities",
-		"meaning":"소수 인종"
+		"word":"Should there be a law to protect minority languages?",
+		"meaning":"소수 언어를 법으로 보호해야만 할까?"
 	}, 
 	{
 		"level":1,
@@ -11436,7 +11436,7 @@
 		"local":1634,
 		"global":1634,
 		"word":"I exploded with anger.",
-		"meaning":"나느 분노로 폭발했다."
+		"meaning":"나는 분노로 폭발했다."
 	}, 
 	{
 		"level":1,
@@ -11449,7 +11449,7 @@
 		"level":1,
 		"local":1636,
 		"global":1636,
-		"word":"This material absorbs water vert quickly.",
+		"word":"This material absorbs water very quickly.",
 		"meaning":"이 물질은 물을 매우 빨리 흡수한다."
 	}, 
 	{
@@ -11554,7 +11554,7 @@
 		"level":1,
 		"local":1651,
 		"global":1651,
-		"word":"She made the momontous decision to send her son to the United States.",
+		"word":"She made the momentous decision to send her son to the United States.",
 		"meaning":"그녀는 그녀의 아들을 미국에 보내기로 중요한 결정을 내렸다."
 	}, 
 	{
@@ -11639,7 +11639,7 @@
 		"local":1663,
 		"global":1663,
 		"word":"trade off of the land for peace.",
-		"meaning":"평하를 위한 토지 교환"
+		"meaning":"평화를 위한 토지 교환"
 	}, 
 	{
 		"level":1,
@@ -11688,7 +11688,7 @@
 		"local":1670,
 		"global":1670,
 		"word":"They made a compact to reduce pollution.",
-		"meaning":"그을은 오염을 줄이기로 협정을 맺었다."
+		"meaning":"그들은 오염을 줄이기로 협정을 맺었다."
 	}, 
 	{
 		"level":1,
@@ -11702,7 +11702,7 @@
 		"local":1672,
 		"global":1672,
 		"word":"on impact",
-		"meaning":"부딫친 순간에"
+		"meaning":"부딪친 순간에"
 	}, 
 	{
 		"level":1,
@@ -11757,7 +11757,7 @@
 		"level":1,
 		"local":1680,
 		"global":1680,
-		"word":"rrace",
+		"word":"trace",
 		"meaning":"추적하다, 발자국, 흔적"
 	}, 
 	{
@@ -11883,7 +11883,7 @@
 		"level":1,
 		"local":1698,
 		"global":1698,
-		"word":"incoice",
+		"word":"invoice",
 		"meaning":"송장을 보내다, 상품 발송용 송장"
 	}, 
 	{
@@ -12030,7 +12030,7 @@
 		"level":1,
 		"local":1719,
 		"global":1719,
-		"word":"She wa possessed fear.",
+		"word":"She was possessed by fear.",
 		"meaning":"그녀는 두려움에 사로잡혔다."
 	}, 
 	{
@@ -12149,7 +12149,7 @@
 		"level":1,
 		"local":1736,
 		"global":1736,
-		"word":"librate slaves",
+		"word":"liberate slaves",
 		"meaning":"노예들을 해방하다"
 	}, 
 	{
@@ -12416,14 +12416,14 @@
 		"local":1774,
 		"global":1774,
 		"word":"undergo hardships",
-		"meaning":"힘든 일들으 겪다"
+		"meaning":"힘든 일들을 겪다"
 	}, 
 	{
 		"level":1,
 		"local":1775,
 		"global":1775,
 		"word":"outmoded",
-		"meaning":"유해에 뒤떨어진, 구시의"
+		"meaning":"유해에 뒤떨어진, 구시대의"
 	}, 
 	{
 		"level":1,
@@ -12514,7 +12514,7 @@
 		"local":1788,
 		"global":1788,
 		"word":"lucrative",
-		"meaning":"수지가 맞는, 돈벌이가 디는"
+		"meaning":"수지가 맞는, 돈벌이가 되는"
 	}, 
 	{
 		"level":1,
@@ -12612,7 +12612,7 @@
 		"local":1802,
 		"global":1802,
 		"word":"He is a very quarrelsome young man.",
-		"meaning":"그는 매우 말다투기를 좋아하는 젊은이다."
+		"meaning":"그는 말다툼을 매우 좋아하는 젊은이다."
 	}, 
 	{
 		"level":1,
@@ -12744,7 +12744,7 @@
 		"level":1,
 		"local":1821,
 		"global":1821,
-		"word":"Children are vulherable to colds.",
+		"word":"Children are vulnerable to colds.",
 		"meaning":"아이들은 감기에 취약하다"
 	}, 
 	{
@@ -12772,7 +12772,7 @@
 		"level":1,
 		"local":1825,
 		"global":1825,
-		"word":"She is rendering the book into Englis.",
+		"word":"She is rendering the book into English.",
 		"meaning":"그녀는 그 책을 영어로 번역하고 있는 중이다."
 	}, 
 	{
@@ -12822,7 +12822,7 @@
 		"local":1832,
 		"global":1832,
 		"word":"Yuna’s skating performance overwhelming all the spectators.",
-		"meaning":"연아의 스케이딩 공연은 모든 관중들을 압도했다."
+		"meaning":"연아의 스케이팅 공연은 모든 관중들을 압도했다."
 	}, 
 	{
 		"level":1,
@@ -13053,7 +13053,7 @@
 		"local":1865,
 		"global":1865,
 		"word":"cultivate",
-		"meaning":"졍작하다, 재배하다, 기르다"
+		"meaning":"경작하다, 재배하다, 기르다"
 	}, 
 	{
 		"level":1,
@@ -13094,7 +13094,7 @@
 		"level":1,
 		"local":1871,
 		"global":1871,
-		"word":"retten",
+		"word":"rotten",
 		"meaning":"썩은, 부패한, 상한. / 기분이 상한"
 	}, 
 	{
@@ -13123,7 +13123,7 @@
 		"local":1875,
 		"global":1875,
 		"word":"The obsolete law should be abolished.",
-		"meaning":"그 쓸모없는 법은 폐지되어야 한다."
+		"meaning":"그 쓸모 없는 법은 폐지되어야 한다."
 	}, 
 	{
 		"level":1,
@@ -13171,7 +13171,7 @@
 		"level":1,
 		"local":1882,
 		"global":1882,
-		"word":"on one;s own initiative",
+		"word":"on one's own initiative",
 		"meaning":"자발적으로"
 	}, 
 	{
@@ -13270,7 +13270,7 @@
 		"local":1896,
 		"global":1896,
 		"word":"attach",
-		"meaning":"붙이다, 셜부시키다"
+		"meaning":"붙이다, 결부시키다"
 	}, 
 	{
 		"level":1,
@@ -13312,14 +13312,14 @@
 		"local":1902,
 		"global":1902,
 		"word":"prejudice",
-		"meaning":"~에게 편견을 갖게 하다. / 편겨느 선입견"
+		"meaning":"~에게 편견을 갖게 하다. / 편견, 선입견"
 	}, 
 	{
 		"level":1,
 		"local":1903,
 		"global":1903,
 		"word":"be prejudice against",
-		"meaning":"~에 대하여 편결을 갖고 있다"
+		"meaning":"~에 대하여 편견을 갖고 있다"
 	}, 
 	{
 		"level":1,
@@ -13445,7 +13445,7 @@
 		"local":1921,
 		"global":1921,
 		"word":"He was charged with taking care if the lion.",
-		"meaning":"그는 사자를 돌볼 임무르 받았다."
+		"meaning":"그는 사자를 돌볼 임무를 받았다."
 	}, 
 	{
 		"level":1,
@@ -13528,7 +13528,7 @@
 		"level":1,
 		"local":1933,
 		"global":1933,
-		"word":"He is reluctantt to study.",
+		"word":"He is reluctant to study.",
 		"meaning":"그는 공부하기를 꺼려한다"
 	}, 
 	{
@@ -13626,7 +13626,7 @@
 		"level":1,
 		"local":1947,
 		"global":1947,
-		"word":"an aling society",
+		"word":"an ailing society",
 		"meaning":"병들어 가는 사회"
 	}, 
 	{
@@ -13746,7 +13746,7 @@
 		"local":1964,
 		"global":1964,
 		"word":"demonstrate his ability",
-		"meaning":"능력을 ㅂ여주다"
+		"meaning":"능력을 보여주다"
 	}, 
 	{
 		"level":1,
@@ -13857,7 +13857,7 @@
 		"level":1,
 		"local":1980,
 		"global":1980,
-		"word":"pear atpear into",
+		"word":"pear at, pear into",
 		"meaning":"~을 응시하다"
 	}, 
 	{
@@ -13942,14 +13942,14 @@
 		"local":1992,
 		"global":1992,
 		"word":"I restored my energy after a sound sleep.",
-		"meaning":"한잠 푹 자고 나서 나는 에너지를 히복했다."
+		"meaning":"한잠 푹 자고 나서 나는 에너지를 회복했다."
 	}, 
 	{
 		"level":1,
 		"local":1993,
 		"global":1993,
 		"word":"insecure",
-		"meaning":"불안정한, 붕안한"
+		"meaning":"불안정한, 불안한"
 	}, 
 	{
 		"level":1,
@@ -14208,7 +14208,7 @@
 		"local":2030,
 		"global":2030,
 		"word":"He is showing steady progress.",
-		"meaning":"그는 꾸준한 발전울 보여주었다."
+		"meaning":"그는 꾸준한 발전을 보여주었다."
 	}, 
 	{
 		"level":1,
@@ -14397,7 +14397,7 @@
 		"local":2057,
 		"global":2057,
 		"word":"He is bound to come back here.",
-		"meaning":"그는 이곳에 다시 돌아아야만 한다."
+		"meaning":"그는 이곳에 다시 돌아와야만 한다."
 	}, 
 	{
 		"level":1,
@@ -14417,14 +14417,14 @@
 		"level":1,
 		"local":2060,
 		"global":2060,
-		"word":"life",
+		"word":"lift",
 		"meaning":"들어올리다, 오르다"
 	}, 
 	{
 		"level":1,
 		"local":2061,
 		"global":2061,
-		"word":"He lifed his arms above his head.",
+		"word":"He lifted his arms above his head.",
 		"meaning":"그는 두 팔을 머리 위로 올렸다."
 	}, 
 	{
@@ -14537,7 +14537,7 @@
 		"local":2077,
 		"global":2077,
 		"word":"smoking can stain your teeth.",
-		"meaning":"흡연은 당신의 치아를 책색시킬 수 있다."
+		"meaning":"흡연은 당신의 치아를 착색시킬 수 있다."
 	}, 
 	{
 		"level":1,
@@ -14551,13 +14551,13 @@
 		"local":2079,
 		"global":2079,
 		"word":"sweeping",
-		"meaning":"넓은, 포괄저인"
+		"meaning":"넓은, 포괄적인"
 	}, 
 	{
 		"level":1,
 		"local":2080,
 		"global":2080,
-		"word":"We need to execute sweeping econimic reforms.",
+		"word":"We need to execute sweeping economic reforms.",
 		"meaning":"우리는 전면적인 경제 계획을 실행해야 할 필요가 있다."
 	}, 
 	{
@@ -14782,7 +14782,7 @@
 		"local":27,
 		"global":2112,
 		"word":"adept",
-		"meaning":"숙련되"
+		"meaning":"숙련된"
 	}, 
 	{
 		"level":2,
@@ -14796,7 +14796,7 @@
 		"local":29,
 		"global":2114,
 		"word":"monarch",
-		"meaning":"(모나크) 군주"
+		"meaning":"군주 (모나크)"
 	}, 
 	{
 		"level":2,
@@ -14879,8 +14879,8 @@
 		"level":2,
 		"local":41,
 		"global":2126,
-		"word":"lay[put, place] an embargo on Chiness imports",
-		"meaning":"중국 수입품에 데힌 수출을 금지한다."
+		"word":"lay[put, place] an embargo on Chinese imports",
+		"meaning":"중국 수입품에 대한 수출을 금지한다."
 	}, 
 	{
 		"level":2,
@@ -14999,7 +14999,7 @@
 		"local":58,
 		"global":2143,
 		"word":"The dormitory censors the student’s letters for security.",
-		"meaning":"그 기숙사는 보안을 위해 학생들의 편지르 검열한다."
+		"meaning":"그 기숙사는 보안을 위해 학생들의 편지를 검열한다."
 	}, 
 	{
 		"level":2,
@@ -15090,7 +15090,7 @@
 		"local":71,
 		"global":2156,
 		"word":"They certified the gem as genuine.",
-		"meaning":"그들은 그 보석이 진짜라고 공이했다."
+		"meaning":"그들은 그 보석이 진짜라고 보증했다."
 	}, 
 	{
 		"level":2,
@@ -15173,7 +15173,7 @@
 		"level":2,
 		"local":83,
 		"global":2168,
-		"word":"We have to find a way to augment th income.",
+		"word":"We have to find a way to augment the income.",
 		"meaning":"우리는 수익을 늘리기 위한 방법을 찾아야 한다."
 	}, 
 	{
@@ -15257,7 +15257,7 @@
 		"level":2,
 		"local":95,
 		"global":2180,
-		"word":"reckube",
+		"word":"recline",
 		"meaning":"(뒤로)기대다, 눕다"
 	}, 
 	{
@@ -15279,7 +15279,7 @@
 		"local":98,
 		"global":2183,
 		"word":"enclose",
-		"meaning":"둘러싸다, 애워싸다"
+		"meaning":"둘러싸다, 에워싸다"
 	}, 
 	{
 		"level":2,
@@ -15292,7 +15292,7 @@
 		"level":2,
 		"local":100,
 		"global":2185,
-		"word":"Enclose a cheque for 10 milion won.",
+		"word":"Enclose a check for 10 million won.",
 		"meaning":"천만 원짜리 수표를 동봉하다."
 	}, 
 	{
@@ -15349,7 +15349,7 @@
 		"local":108,
 		"global":2193,
 		"word":"I believe you are in accord with me about the result.",
-		"meaning":"난 그 결과에 대해서는 당신이 저의 의견이 일치한다고 밎습니다."
+		"meaning":"난 그 결과에 대해서는 당신이 저의 의견이 일치한다고 믿습니다."
 	}, 
 	{
 		"level":2,
@@ -15412,7 +15412,7 @@
 		"local":117,
 		"global":2202,
 		"word":"autocratic",
-		"meaning":"족재적인"
+		"meaning":"독재적인"
 	}, 
 	{
 		"level":2,
@@ -15474,7 +15474,7 @@
 		"level":2,
 		"local":126,
 		"global":2211,
-		"word":"We are recruting a new staff member.",
+		"word":"We are recruiting a new staff member.",
 		"meaning":"우리는 신입직원을 모집하는 중입니다."
 	}, 
 	{
@@ -15510,7 +15510,7 @@
 		"local":131,
 		"global":2216,
 		"word":"credulous",
-		"meaning":"(남을) 쉬사리 믿는. / 속아 넘어가기 쉬운"
+		"meaning":"(남을) 쉽사리 믿는. / 속아 넘어가기 쉬운"
 	}, 
 	{
 		"level":2,
@@ -15530,8 +15530,8 @@
 		"level":2,
 		"local":134,
 		"global":2219,
-		"word":"He is descreet when making a deciseion.",
-		"meaning":"그는 결정을 내릴 대 신중하다."
+		"word":"He is discreet when making a decision.",
+		"meaning":"그가 결정을 내릴 때는 신중하다."
 	}, 
 	{
 		"level":2,
@@ -15545,7 +15545,7 @@
 		"local":136,
 		"global":2221,
 		"word":"The office should be discrete from the hall.",
-		"meaning":"사무실은 홀로ㅜ터 분리되어 잇어야 한다."
+		"meaning":"사무실은 홀에서 분리되어 있어야 한다."
 	}, 
 	{
 		"level":2,
@@ -15565,7 +15565,7 @@
 		"level":2,
 		"local":139,
 		"global":2224,
-		"word":"The white cottage is discernibel in the distance.",
+		"word":"The white cottage is discernible in the distance.",
 		"meaning":"어느 정도 거리에서 그 하얀 오두막은 식별 가능하다."
 	}, 
 	{
@@ -15593,8 +15593,8 @@
 		"level":2,
 		"local":143,
 		"global":2228,
-		"word":"A new proposal incured the anger of the local people.",
-		"meaning":"새로운 제안은 지역 주민들의 분ㄴ를 초래했다."
+		"word":"A new proposal incurred the anger of the local people.",
+		"meaning":"새로운 제안은 지역 주민들의 분노를 초래했다."
 	}, 
 	{
 		"level":2,
@@ -15622,7 +15622,7 @@
 		"local":147,
 		"global":2232,
 		"word":"She is holding two concurrent exhibitions.",
-		"meaning":"그녀는 두 개의 동시 전시회를 개치하고 있다."
+		"meaning":"그녀는 두 개의 동시 전시회를 개최하고 있다."
 	}, 
 	{
 		"level":2,
@@ -15650,7 +15650,7 @@
 		"local":151,
 		"global":2236,
 		"word":"procure",
-		"meaning":"획독하다, ㅈ립하다"
+		"meaning":"획득하다, 조립하다"
 	}, 
 	{
 		"level":2,
@@ -15712,7 +15712,7 @@
 		"level":2,
 		"local":160,
 		"global":2245,
-		"word":"The jury made a unanimous guilty verfict.",
+		"word":"The jury made a unanimous guilty verdict.",
 		"meaning":"배심원은 전원 유죄 평결을 내렸다."
 	}, 
 	{
@@ -15727,7 +15727,7 @@
 		"local":162,
 		"global":2247,
 		"word":"He stared at the criminal with disdain.",
-		"meaning":"그는 그 범죄자를 경명하며 쳐다봤다."
+		"meaning":"그는 그 범죄자를 경멸하며 쳐다봤다."
 	}, 
 	{
 		"level":2,
@@ -15811,14 +15811,14 @@
 		"local":174,
 		"global":2259,
 		"word":"paradox",
-		"meaning":"아뒤가 맞지않는 일"
+		"meaning":"역설, 앞뒤가 맞지 않는 일"
 	}, 
 	{
 		"level":2,
 		"local":175,
 		"global":2260,
 		"word":"Socrates is very smart but ugly. It is sort of paradoxical.",
-		"meaning":"소크라데스는 매우 똑똑한데 못생겼다. 약간 역설적이다."
+		"meaning":"소크라테스는 매우 똑똑한데 못생겼다. 약간 역설적이다."
 	}, 
 	{
 		"level":2,
@@ -15859,7 +15859,7 @@
 		"level":2,
 		"local":181,
 		"global":2266,
-		"word":"Two runners are equicalent in speed.",
+		"word":"Two runners are equivalent in speed.",
 		"meaning":"두 달리기 선수는 스피드가 동등하다."
 	}, 
 	{
@@ -15887,7 +15887,7 @@
 		"level":2,
 		"local":185,
 		"global":2270,
-		"word":"In medieval times, people kaxjed technology.",
+		"word":"In medieval times, people lacked technology.",
 		"meaning":"중세시대에, 사람들은 기술이 부족했다."
 	}, 
 	{
@@ -15971,8 +15971,8 @@
 		"level":2,
 		"local":197,
 		"global":2282,
-		"word":"We conferred an honorary doctorate of law on him.",
-		"meaning":"우리는 그에게 명예법학박사학의를 수여했다."
+		"word":"The university conferred an honorary degree on him",
+		"meaning":"대학은 그에게 명예 학위를 수여했다."
 	}, 
 	{
 		"level":2,
@@ -16048,8 +16048,8 @@
 		"level":2,
 		"local":208,
 		"global":2293,
-		"word":"infalte a balloon.",
-		"meaning":"기구를 부풀리다."
+		"word":"inflate a balloon",
+		"meaning":"기구를 부풀리다"
 	}, 
 	{
 		"level":2,
@@ -16062,7 +16062,7 @@
 		"level":2,
 		"local":210,
 		"global":2295,
-		"word":"Stagflatin is a rise in price furing recession.",
+		"word":"Stagflation is a rise in price during recession.",
 		"meaning":"스테그플레이션은 불경기 중의 물가 상승이다."
 	}, 
 	{
@@ -16105,7 +16105,7 @@
 		"local":216,
 		"global":2301,
 		"word":"afflict",
-		"meaning":"(질병, 재난, 고통) 기롭히다"
+		"meaning":"(질병, 재난, 고통) 괴롭히다"
 	}, 
 	{
 		"level":2,
@@ -16146,7 +16146,7 @@
 		"level":2,
 		"local":222,
 		"global":2307,
-		"word":"fuid",
+		"word":"fluid",
 		"meaning":"액체"
 	}, 
 	{
@@ -16182,7 +16182,7 @@
 		"local":227,
 		"global":2312,
 		"word":"fluctuate",
-		"meaning":"(물가, 가격등이) 변동하다. / 오르내리다"
+		"meaning":"(물가, 가격 등이) 변동하다. / 오르내리다"
 	}, 
 	{
 		"level":2,
@@ -16259,7 +16259,7 @@
 		"local":238,
 		"global":2323,
 		"word":"I hesitated for a fraction of a second.",
-		"meaning":"아주잠시동안 나는 주저했다.(잠시 망설였어요)"
+		"meaning":"아주 잠시동안 나는 주저했다. (잠시 망설였어요)"
 	}, 
 	{
 		"level":2,
@@ -16336,7 +16336,7 @@
 		"local":249,
 		"global":2334,
 		"word":"His illness was diagnosed as cancer.",
-		"meaning":"그의 질병은 암으로 진단디었다."
+		"meaning":"그의 질병은 암으로 진단되었다."
 	}, 
 	{
 		"level":2,
@@ -16357,13 +16357,13 @@
 		"local":252,
 		"global":2337,
 		"word":"ingredient",
-		"meaning":"성분, ㄱ성요소"
+		"meaning":"성분, 구성요소"
 	}, 
 	{
 		"level":2,
 		"local":253,
 		"global":2338,
-		"word":"Embracement is the ingedient of political success.",
+		"word":"Embracement is the ingredient of political success.",
 		"meaning":"정치적 성공의 근원은 포용이다."
 	}, 
 	{
@@ -16490,7 +16490,7 @@
 		"local":271,
 		"global":2356,
 		"word":"Don’t be dejected, take courage.",
-		"meaning":"낙담하지마라, 용기를 내라."
+		"meaning":"낙담하지 마라, 용기를 내라."
 	}, 
 	{
 		"level":2,
@@ -16693,7 +16693,7 @@
 		"local":300,
 		"global":2385,
 		"word":"He was prolonging the war.",
-		"meaning":"그는 저쟁을 오래 끌어가고 있었다."
+		"meaning":"그는 전쟁을 오래 끌어가고 있었다."
 	}, 
 	{
 		"level":2,
@@ -16790,7 +16790,7 @@
 		"level":2,
 		"local":314,
 		"global":2399,
-		"word":"They are tifying up remains of the party.",
+		"word":"They are tidying up remains of the party.",
 		"meaning":"그들은 파티 후 남은 것들을 치우고 있다."
 	}, 
 	{
@@ -16812,7 +16812,7 @@
 		"local":317,
 		"global":2402,
 		"word":"He has English at his command.",
-		"meaning":"그는 여어를 자유자제로 구사한다."
+		"meaning":"그는 영어를 자유자제로 구사한다."
 	}, 
 	{
 		"level":2,
@@ -17028,7 +17028,7 @@
 		"level":2,
 		"local":348,
 		"global":2433,
-		"word":"My company is trying to marge with other companies.",
+		"word":"My company is trying to merge with other companies.",
 		"meaning":"저희 회사는 다른 회사와 합병을 시도하고 있습니다."
 	}, 
 	{
@@ -17120,7 +17120,7 @@
 		"local":361,
 		"global":2446,
 		"word":"He is eminent in the field of law.",
-		"meaning":"그는 법 뷴야에 있어 뛰어나다."
+		"meaning":"그는 법 분야에서 뛰어나다."
 	}, 
 	{
 		"level":2,
@@ -17224,7 +17224,7 @@
 		"level":2,
 		"local":376,
 		"global":2461,
-		"word":"A dog surmounted the fence to another ouse.",
+		"word":"A dog surmounted the fence to another house.",
 		"meaning":"개 한 마리가 다른 집으로 울타리를 넘어갔다."
 	}, 
 	{
@@ -17308,8 +17308,8 @@
 		"level":2,
 		"local":388,
 		"global":2473,
-		"word":"partical",
-		"meaning":"부분적인, 일부분의. / 편하적인, 한쪽에 치우친"
+		"word":"partial",
+		"meaning":"부분적인, 일부분의. / 편파적인, 한쪽에 치우친"
 	}, 
 	{
 		"level":2,
@@ -17322,8 +17322,8 @@
 		"level":2,
 		"local":390,
 		"global":2475,
-		"word":"His decision is partical.",
-		"meaning":"그의 결정은 편하적이다."
+		"word":"His decision is partial.",
+		"meaning":"그의 결정은 편파적이다."
 	}, 
 	{
 		"level":2,
@@ -17365,21 +17365,21 @@
 		"local":396,
 		"global":2481,
 		"word":"Vegetables are in the bottom compartment of the refrigerator.",
-		"meaning":"채소들은 냉장고 제일 아리 칸에 있습니다."
+		"meaning":"채소들은 냉장고 제일 아래 칸에 있습니다."
 	}, 
 	{
 		"level":2,
 		"local":397,
 		"global":2482,
 		"word":"particle",
-		"meaning":"작은 미립자"
+		"meaning":"작은 미립자, 매우 작은 것"
 	}, 
 	{
 		"level":2,
 		"local":398,
 		"global":2483,
-		"word":"The particles slice through strands od DNA.",
-		"meaning":"이 미립자들은 DNA가닥들을 뚫고 들어간다."
+		"word":"There was not a particle of evidence to support the case.",
+		"meaning":"그 사실을 뒷받침할 증거가 티끌만큼도 없었다."
 	}, 
 	{
 		"level":2,
@@ -17392,7 +17392,7 @@
 		"level":2,
 		"local":400,
 		"global":2485,
-		"word":"The mother appeased the boy with some some jelly.",
+		"word":"The mother appeased the boy with some jelly.",
 		"meaning":"그 엄마는 소년을 젤리로 달랬다."
 	}, 
 	{
@@ -17406,7 +17406,7 @@
 		"level":2,
 		"local":402,
 		"global":2487,
-		"word":"I have tried to pacify the the baby for 3 hours.",
+		"word":"I have tried to pacify the baby for 3 hours.",
 		"meaning":"나는 3시간 동안 아기를 달래기 위해 노력하고 있다."
 	}, 
 	{
@@ -17434,7 +17434,7 @@
 		"level":2,
 		"local":406,
 		"global":2491,
-		"word":"What fo you usually do for pastime?",
+		"word":"What do you usually do for pastime?",
 		"meaning":"당신은 기분전화을 위해 주로 뭘 하십니까?"
 	}, 
 	{
@@ -17442,7 +17442,7 @@
 		"local":407,
 		"global":2492,
 		"word":"synopsis",
-		"meaning":"개관, 개요. / 복수형 ? synopses"
+		"meaning":"개관, 개요. / 복수형"
 	}, 
 	{
 		"level":2,
@@ -17518,7 +17518,7 @@
 		"level":2,
 		"local":418,
 		"global":2503,
-		"word":"Governments frequently ignore human rights abuses in other countries if it is politically expedinet to do so.",
+		"word":"Governments frequently ignore human rights abuses in other countries if it is politically expedient to do so.",
 		"meaning":"정부는 다른 나라들에서 정치적인 편법으로 인간의 권리가 침해받는 것을 종종 묵인한다."
 	}, 
 	{
@@ -17547,7 +17547,7 @@
 		"local":422,
 		"global":2507,
 		"word":"propel",
-		"meaning":"추진하다, 앞으로 나나게 하다"
+		"meaning":"추진하다, 앞으로 나아가게 하다"
 	}, 
 	{
 		"level":2,
@@ -17638,7 +17638,7 @@
 		"local":435,
 		"global":2520,
 		"word":"repent",
-		"meaning":"늬우치다, 후회하다"
+		"meaning":"뉘우치다, 후회하다"
 	}, 
 	{
 		"level":2,
@@ -17679,8 +17679,8 @@
 		"level":2,
 		"local":441,
 		"global":2526,
-		"word":"She started the adventure at her peri.",
-		"meaning":"그녀는 위험을 무릎쓰고 모험을 시작했다."
+		"word":"She started the adventure at her peril.",
+		"meaning":"그녀는 위험을 무릎 쓰고 모험을 시작했다."
 	}, 
 	{
 		"level":2,
@@ -17715,7 +17715,7 @@
 		"local":446,
 		"global":2531,
 		"word":"Perpetual complaints come out from the departments.",
-		"meaning":"부서들ㄹ부터 계속되는 불만이 터져 나오고 있다."
+		"meaning":"부서들로부터 계속되는 불만이 터져 나오고 있다."
 	}, 
 	{
 		"level":2,
@@ -17785,14 +17785,14 @@
 		"local":456,
 		"global":2541,
 		"word":"placebo",
-		"meaning":"위약, 플라시보. / 플라시보 효과 의사가 효과 없는 가짜 약 혹은 꾸며낸 치료법을 환자에게 제안했는데, 환자의 긍정적인 믿음으로 인해 병세가 호전되는 현상이다."
+		"meaning":"위약, 플라시보. / 플라시보 효과"
 	}, 
 	{
 		"level":2,
 		"local":457,
 		"global":2542,
 		"word":"A placebo effect is psychologically explained.",
-		"meaning":"플라시보 효과는 심리학저으로 설명된다."
+		"meaning":"플라시보 효과는 심리학적으로 설명된다."
 	}, 
 	{
 		"level":2,
@@ -17869,7 +17869,7 @@
 		"local":468,
 		"global":2553,
 		"word":"I deplore his death.",
-		"meaning":"나느 그의 죽음을 애도한다."
+		"meaning":"나는 그의 죽음을 애도한다."
 	}, 
 	{
 		"level":2,
@@ -17882,7 +17882,7 @@
 		"level":2,
 		"local":470,
 		"global":2555,
-		"word":"He implored forgiveness for being rede.",
+		"word":"He implored forgiveness for being rude.",
 		"meaning":"그는 무례했던 것에 대해서 용서해주기를 애원했다."
 	}, 
 	{
@@ -17953,7 +17953,7 @@
 		"local":480,
 		"global":2565,
 		"word":"I prefer a pragmatic method.",
-		"meaning":"나느 실용적인 방법을 선호합니다."
+		"meaning":"나는 실용적인 방법을 선호합니다."
 	}, 
 	{
 		"level":2,
@@ -18002,7 +18002,7 @@
 		"local":487,
 		"global":2572,
 		"word":"impressionable",
-		"meaning":"영향 받기 귀운. / 감수성이 풍부한"
+		"meaning":"영향 받기 쉬운. / 감수성이 풍부한"
 	}, 
 	{
 		"level":2,
@@ -18036,8 +18036,8 @@
 		"level":2,
 		"local":492,
 		"global":2577,
-		"word":"France is a country which has a president nad a premier.",
-		"meaning":"프랑스는 대통령과 총리가 함계 있는 나라다."
+		"word":"France is a country which has a president and a premier.",
+		"meaning":"프랑스는 대통령과 총리가 함께 있는 나라다."
 	}, 
 	{
 		"level":2,
@@ -18134,7 +18134,7 @@
 		"level":2,
 		"local":506,
 		"global":2591,
-		"word":"His quest for fame us getting deeper abd deeper.",
+		"word":"His quest for fame us getting deeper and deeper.",
 		"meaning":"명성에 대한 그의 추구는 점점 깊어져만 같다."
 	}, 
 	{
@@ -18190,7 +18190,7 @@
 		"level":2,
 		"local":514,
 		"global":2599,
-		"word":"regigly",
+		"word":"rigidly",
 		"meaning":"엄격하게, 완고하게"
 	}, 
 	{
@@ -18282,7 +18282,7 @@
 		"local":527,
 		"global":2612,
 		"word":"erode",
-		"meaning":"침식디다, 침식하다"
+		"meaning":"침식되다, 침식하다"
 	}, 
 	{
 		"level":2,
@@ -18422,7 +18422,7 @@
 		"local":547,
 		"global":2632,
 		"word":"An obscene picture popped up on the screen.",
-		"meaning":"음란한 사진이 스크린 창에 떳다."
+		"meaning":"음란한 사진이 스크린 창에 떴다."
 	}, 
 	{
 		"level":2,
@@ -18449,7 +18449,7 @@
 		"level":2,
 		"local":551,
 		"global":2636,
-		"word":"I feel sacred when I go th church.",
+		"word":"I feel sacred when I go to church.",
 		"meaning":"나는 교회에 가면 신성해지는 것 같은 기분을 느낀다."
 	}, 
 	{
@@ -18464,7 +18464,7 @@
 		"local":553,
 		"global":2638,
 		"word":"Economic sanctions will only be lifted when the aggressor nation withdraws its troops.",
-		"meaning":"침략 국가가 군대를 철수할 때 경제 재재가 중단될 것이다."
+		"meaning":"침략 국가가 군대를 철수할 때 경제 제재가 중단될 것이다."
 	}, 
 	{
 		"level":2,
@@ -18513,7 +18513,7 @@
 		"local":560,
 		"global":2645,
 		"word":"The government subsidized the housing of the poor up to 80%.",
-		"meaning":"정부는 가난한 사람들의 주택 보조금을 지워한다. (정부가 빈곤층의 주택에 최고 80%까지 보조금을 지급했다.)"
+		"meaning":"정부는 가난한 사람들의 주택 보조금을 최고 80%까지 지원하였다."
 	}, 
 	{
 		"level":2,
@@ -18541,14 +18541,14 @@
 		"local":564,
 		"global":2649,
 		"word":"My job is sedentary work at the office.",
-		"meaning":"내 직업은 사무실에서 얹어소 허눈 알압나더,"
+		"meaning":"내 직업은 사무실에서 앉아서 하는 일입니다."
 	}, 
 	{
 		"level":2,
 		"local":565,
 		"global":2650,
 		"word":"session",
-		"meaning":"(법정, 의히, 단체의) 모임, 회기. 기간"
+		"meaning":"(법정, 의회, 단체의) 모임, 회기. 기간"
 	}, 
 	{
 		"level":2,
@@ -18597,7 +18597,7 @@
 		"local":572,
 		"global":2657,
 		"word":"What’s the sequence of the scenes?",
-		"meaning":"그 장며들의 순서가 어떻게 되나요?"
+		"meaning":"그 장면들의 순서가 어떻게 되나요?"
 	}, 
 	{
 		"level":2,
@@ -18618,7 +18618,7 @@
 		"local":575,
 		"global":2660,
 		"word":"In 1982 he was arrested and subsequently convicted on drug trafficking charges.",
-		"meaning":"1982년 그는 최포된 후 마약 밀거래 혐의로 유죄 선고를 받았다."
+		"meaning":"1982년 그는 체포된 후 마약 밀거래 혐의로 유죄 선고를 받았다."
 	}, 
 	{
 		"level":2,
@@ -18659,7 +18659,7 @@
 		"level":2,
 		"local":581,
 		"global":2666,
-		"word":"simulattion test",
+		"word":"simulation test",
 		"meaning":"모의 실험"
 	}, 
 	{
@@ -18667,7 +18667,7 @@
 		"local":582,
 		"global":2667,
 		"word":"transcribe",
-		"meaning":"기록하다, 배껴쓰다"
+		"meaning":"기록하다, 베껴 쓰다"
 	}, 
 	{
 		"level":2,
@@ -18729,7 +18729,7 @@
 		"level":2,
 		"local":591,
 		"global":2676,
-		"word":"The funerla was solemn and quiet.",
+		"word":"The funeral was solemn and quiet.",
 		"meaning":"그 장례식은 장엄하고 조용했다."
 	}, 
 	{
@@ -18751,7 +18751,7 @@
 		"local":594,
 		"global":2679,
 		"word":"We should buy more industrial solvents.",
-		"meaning":"우리는 산업용 용해제를 더 사야한다."
+		"meaning":"우리는 산업용 용해제를 더 사야 한다."
 	}, 
 	{
 		"level":2,
@@ -18813,8 +18813,8 @@
 		"level":2,
 		"local":603,
 		"global":2688,
-		"word":"The doctors speculate that he died of a celebral haemorrhage caused by a blow on the head.",
-		"meaning":"그 의사들은 그가 머리에 맞은 타격으로 인한 뇌의 심한 출혈로 죽었다고 추측된다."
+		"word":"It is useless to speculate why he did it.",
+		"meaning":"그가 왜 그랬는지 추측하는 건 의미가 없다."
 	}, 
 	{
 		"level":2,
@@ -18848,7 +18848,7 @@
 		"level":2,
 		"local":608,
 		"global":2693,
-		"word":"I introspected my weekness.",
+		"word":"I introspected my weakness.",
 		"meaning":"나는 나의 약점을 자기성찰했다."
 	}, 
 	{
@@ -18877,14 +18877,14 @@
 		"local":612,
 		"global":2697,
 		"word":"perspire",
-		"meaning":"땀 플리다"
+		"meaning":"땀 흘리다"
 	}, 
 	{
 		"level":2,
 		"local":613,
 		"global":2698,
-		"word":"I perspire too much wen jogging.",
-		"meaning":"나는 조깅할 때 따음 너무 많이 흘린다."
+		"word":"I perspire too much when jogging.",
+		"meaning":"나는 조깅할 때 땀을 너무 많이 흘린다."
 	}, 
 	{
 		"level":2,
@@ -18932,7 +18932,7 @@
 		"level":2,
 		"local":620,
 		"global":2705,
-		"word":"withstand temptaion",
+		"word":"withstand temptation",
 		"meaning":"유혹에 저항하다"
 	}, 
 	{
@@ -19024,14 +19024,14 @@
 		"local":633,
 		"global":2718,
 		"word":"instill",
-		"meaning":"스며들게 하다, 쥬압사카더"
+		"meaning":"스며들게 하다, 주입시키다."
 	}, 
 	{
 		"level":2,
 		"local":634,
 		"global":2719,
 		"word":"instill a progressive idea",
-		"meaning":"진보적인 사고를 주이하다"
+		"meaning":"진보적인 사고를 주입하다"
 	}, 
 	{
 		"level":2,
@@ -19045,7 +19045,7 @@
 		"local":636,
 		"global":2721,
 		"word":"A labor union instigated workers to go on strike.",
-		"meaning":"노동조합은 노동자를 부치기어 파업을 일으키게 했다."
+		"meaning":"노동조합은 노동자를 부추겨 파업을 일으키게 했다."
 	}, 
 	{
 		"level":2,
@@ -19073,7 +19073,7 @@
 		"local":640,
 		"global":2725,
 		"word":"A bee stings when it feels attacked.",
-		"meaning":"벙은 공격받았다고 생각할 때 침으로 찌른다."
+		"meaning":"벌은 공격받았다고 생각할 때 침으로 찌른다."
 	}, 
 	{
 		"level":2,
@@ -19157,7 +19157,7 @@
 		"local":652,
 		"global":2737,
 		"word":"surge",
-		"meaning":"새도하다, 몰려들다"
+		"meaning":"쇄도하다, 몰려들다"
 	}, 
 	{
 		"level":2,
@@ -19226,7 +19226,7 @@
 		"level":2,
 		"local":662,
 		"global":2747,
-		"word":"He was entangled in the scandle,",
+		"word":"He was entangled in the scandal.",
 		"meaning":"그는 스캔들에 읽히게 되었다."
 	}, 
 	{
@@ -19353,14 +19353,14 @@
 		"local":680,
 		"global":2765,
 		"word":"terminal",
-		"meaning":"불치의, 터미널"
+		"meaning":"터미널, 단말기. / (질병이) 말기의, 불치의"
 	}, 
 	{
 		"level":2,
 		"local":681,
 		"global":2766,
-		"word":"His terminal cancer makes me sad.",
-		"meaning":"그의 불치암은 나를 슬프게 만든다."
+		"word":"He has terminal lung cancer.",
+		"meaning":"그는 말기 폐암에 걸렸다."
 	}, 
 	{
 		"level":2,
@@ -19436,7 +19436,7 @@
 		"level":2,
 		"local":692,
 		"global":2777,
-		"word":"pretect",
+		"word":"pretext",
 		"meaning":"구실, 핑계"
 	}, 
 	{
@@ -19478,7 +19478,7 @@
 		"level":2,
 		"local":698,
 		"global":2783,
-		"word":"He extorted a bribe from a raluctant person.",
+		"word":"He extorted a bribe from a reluctant person.",
 		"meaning":"그는 마지못해 하는 사람으로부터 뇌물을 강요했다."
 	}, 
 	{
@@ -19562,7 +19562,7 @@
 		"level":2,
 		"local":710,
 		"global":2795,
-		"word":"Cruelty is a normal attribute of human behaviour.",
+		"word":"Cruelty is a normal attribute of human behavior.",
 		"meaning":"잔인함은 인간 행동의 정상적인 속성이다."
 	}, 
 	{
@@ -19668,7 +19668,7 @@
 		"local":725,
 		"global":2810,
 		"word":"Thousands of people were evacuated from their homes following the flood.",
-		"meaning":"수천 명의 사람들이 홍수 후에 그들의 집으로부터 대피되었다. / (홍수가 난 후 수천명의 사람들이 대피했다.)"
+		"meaning":"수천 명의 사람들이 홍수 후에 그들의 집으로부터 대피되었다. / (홍수가 난 후 수천 명의 사람들이 대피했다.)"
 	}, 
 	{
 		"level":2,
@@ -19695,8 +19695,8 @@
 		"level":2,
 		"local":729,
 		"global":2814,
-		"word":"The deer vanished witout trace.",
-		"meaning":"그 사슴은 흔적없이 사라졌다."
+		"word":"The deer vanished without trace.",
+		"meaning":"그 사슴은 흔적 없이 사라졌다."
 	}, 
 	{
 		"level":2,
@@ -19815,14 +19815,14 @@
 		"local":746,
 		"global":2831,
 		"word":"convert",
-		"meaning":"저환하다"
+		"meaning":"전환하다"
 	}, 
 	{
 		"level":2,
 		"local":747,
 		"global":2832,
-		"word":"a convertible car",
-		"meaning":"컨버터블 차량"
+		"word":"Select the type of unit you want to convert.",
+		"meaning":"변환할 단위의 종류를 선택하십시오."
 	}, 
 	{
 		"level":2,
@@ -19927,7 +19927,7 @@
 		"local":762,
 		"global":2847,
 		"word":"We consider even trivial information very useful.",
-		"meaning":"우리는 심지어 하찮은 정ㅂ도 매우 유용하다고 여긴다."
+		"meaning":"우리는 심지어 하찮은 정보도 매우 유용하다고 여긴다."
 	}, 
 	{
 		"level":2,
@@ -19982,8 +19982,8 @@
 		"level":2,
 		"local":770,
 		"global":2855,
-		"word":"To sleep. we improvised a nattress frin a pile of blankets.",
-		"meaning":"잠자기 위해. 우리는 담요 더미로 매트리스를 즉석에서 만들었다."
+		"word":"To sleep, we improvised a mattress from a pile of blankets.",
+		"meaning":"우리는 잠자기 위해 매트리스를 담요 더미로 즉석에서 만들었다."
 	}, 
 	{
 		"level":2,
@@ -20038,7 +20038,7 @@
 		"level":2,
 		"local":778,
 		"global":2863,
-		"word":"Athletes with wigor make good scores.",
+		"word":"Athletes with vigor make good scores.",
 		"meaning":"활력이 넘치는 운동선수들은 좋은 점수를 낸다."
 	}, 
 	{
@@ -20094,7 +20094,7 @@
 		"level":2,
 		"local":786,
 		"global":2871,
-		"word":"A sharp tpa on the knee usually causes ab involuntary nivenebt of the lower leg.",
+		"word":"A sharp tap on the knee usually causes an involuntary movement of the lower leg.",
 		"meaning":"무릎을 살짝 치면 다리 아래쪽이 의지와 상관없이 그냥 올라간다."
 	}, 
 	{
@@ -20123,7 +20123,7 @@
 		"local":790,
 		"global":2875,
 		"word":"The government promulgated a new law related to violence.",
-		"meaning":"정부는 폭력에 관련된 새로운 법안을 공ㅍ했다."
+		"meaning":"정부는 폭력에 관련된 새로운 법안을 공포했다."
 	}, 
 	{
 		"level":2,
@@ -20200,7 +20200,7 @@
 		"local":801,
 		"global":2886,
 		"word":"enjoy a huge profit in the wake of aggressive advertising.",
-		"meaning":"저극적인 광고의 결과로 엄청난 이득을 누린다."
+		"meaning":"적극적인 광고의 결과로 엄청난 이득을 누린다."
 	}, 
 	{
 		"level":2,
@@ -20220,8 +20220,8 @@
 		"level":2,
 		"local":804,
 		"global":2889,
-		"word":"the oneset of the flu",
-		"meaning":"플루의 발생"
+		"word":"the onset of the flu",
+		"meaning":"독감의 발생"
 	}, 
 	{
 		"level":2,
@@ -20374,7 +20374,7 @@
 		"level":2,
 		"local":826,
 		"global":2911,
-		"word":"endorse a cheque",
+		"word":"endorse a check",
 		"meaning":"수표에 서명하다"
 	}, 
 	{
@@ -20641,7 +20641,7 @@
 		"local":864,
 		"global":2949,
 		"word":"Deep grief overtook her.",
-		"meaning":"깊은 슬픔이 그녀를ㄹ 덮쳤다."
+		"meaning":"깊은 슬픔이 그녀를 덮쳤다."
 	}, 
 	{
 		"level":2,
@@ -20717,7 +20717,7 @@
 		"level":2,
 		"local":875,
 		"global":2960,
-		"word":"the wercked shop",
+		"word":"the wrecked ship",
 		"meaning":"파괴된 배"
 	}, 
 	{
@@ -20725,7 +20725,7 @@
 		"local":876,
 		"global":2961,
 		"word":"mob",
-		"meaning":"떼릴 지어 물러가다, 군중, 폭도"
+		"meaning":"때릴 지어 물러가다, 군중, 폭도"
 	}, 
 	{
 		"level":2,
@@ -20781,7 +20781,7 @@
 		"local":884,
 		"global":2969,
 		"word":"The judge awarded exemplary damages.",
-		"meaning":"그 판사는 모법적인 손해배상을 지급햇다."
+		"meaning":"그 판사는 모법적인 손해배상을 지급했다."
 	}, 
 	{
 		"level":2,
@@ -20857,7 +20857,7 @@
 		"level":2,
 		"local":895,
 		"global":2980,
-		"word":"Nicotine diffuse slowly into the bloostream.",
+		"word":"Nicotine diffuse slowly into the bloodstream.",
 		"meaning":"니코틴이 혈류 속으로 천천히 퍼진다."
 	}, 
 	{
@@ -20871,8 +20871,8 @@
 		"level":2,
 		"local":897,
 		"global":2982,
-		"word":"defy belidf defy description defy explanation",
-		"meaning":"믿을 수 없다 형언할 수 없다 설명할 수 없다"
+		"word":"defy belief, defy description, defy explanation",
+		"meaning":"믿을 수 없다, 형언할 수 없다, 설명할 수 없다"
 	}, 
 	{
 		"level":2,
@@ -20977,7 +20977,7 @@
 		"local":912,
 		"global":2997,
 		"word":"inhibit desires(impulse)",
-		"meaning":"욕망충도을 억제하다"
+		"meaning":"욕망충동을 억제하다"
 	}, 
 	{
 		"level":2,
@@ -20998,7 +20998,7 @@
 		"local":915,
 		"global":3000,
 		"word":"humble",
-		"meaning":"겸손하게 마들다. / 겸손한, 소박한. / 누추한, 신분이 낮은"
+		"meaning":"겸손하게 만들다. / 겸손한, 소박한. / 누추한, 신분이 낮은"
 	}, 
 	{
 		"level":2,
@@ -21068,7 +21068,7 @@
 		"local":925,
 		"global":3010,
 		"word":"exploit new chances",
-		"meaning":"새로운 기회를 화용하다"
+		"meaning":"새로운 기회를 활용하다"
 	}, 
 	{
 		"level":2,
@@ -21081,7 +21081,7 @@
 		"level":2,
 		"local":927,
 		"global":3012,
-		"word":"labor explotation",
+		"word":"labor exploitation",
 		"meaning":"노동 착취"
 	}, 
 	{
@@ -21165,15 +21165,15 @@
 		"level":2,
 		"local":939,
 		"global":3024,
-		"word":"spiol",
+		"word":"spoil",
 		"meaning":"망치다, 응석을 다 받아주다"
 	}, 
 	{
 		"level":2,
 		"local":940,
 		"global":3025,
-		"word":"spoil his lifespoil my schedule",
-		"meaning":"인생을 망치다 내 일정을 망치다"
+		"word":"spoil his life, spoil my schedule",
+		"meaning":"인생을 망치다, 내 일정을 망치다"
 	}, 
 	{
 		"level":2,
@@ -21207,7 +21207,7 @@
 		"level":2,
 		"local":945,
 		"global":3030,
-		"word":"This tis an outrage!",
+		"word":"This is an outrage!",
 		"meaning":"이건 말도 안 되는 일이야!"
 	}, 
 	{
@@ -21263,7 +21263,7 @@
 		"level":2,
 		"local":953,
 		"global":3038,
-		"word":"a temtative agreement",
+		"word":"a tentative agreement",
 		"meaning":"잠정적 동의"
 	}, 
 	{
@@ -21306,14 +21306,14 @@
 		"local":959,
 		"global":3044,
 		"word":"Some of the students neglected their studies.",
-		"meaning":"몇몇 학새들이 그들의 공부를 소홀히 했다."
+		"meaning":"몇몇 학생들이 그들의 공부를 소홀히 했다."
 	}, 
 	{
 		"level":2,
 		"local":960,
 		"global":3045,
 		"word":"The guard was charged with neglect of duty.",
-		"meaning":"그 경비는 의무 소홀로 비난받았다."
+		"meaning":"그 경비는 의무 소홀로 비난 받았다."
 	}, 
 	{
 		"level":2,
@@ -21369,7 +21369,7 @@
 		"local":968,
 		"global":3053,
 		"word":"an indelible soar",
-		"meaning":"지울 수 없는 사처"
+		"meaning":"지울 수 없는 상처"
 	}, 
 	{
 		"level":2,
@@ -21389,7 +21389,7 @@
 		"level":2,
 		"local":971,
 		"global":3056,
-		"word":"licence",
+		"word":"license",
 		"meaning":"허가를 내주다, 허가, 면허"
 	}, 
 	{
@@ -21446,7 +21446,7 @@
 		"local":979,
 		"global":3064,
 		"word":"immune",
-		"meaning":"면역의, 영향받지 않는. / 처벌받지 않는"
+		"meaning":"면역의, 영향 받지 않는. / 처벌받지 않는"
 	}, 
 	{
 		"level":2,
@@ -21515,8 +21515,8 @@
 		"level":2,
 		"local":989,
 		"global":3074,
-		"word":"an abortive enterorise",
-		"meaning":"실패로 끝난 사압"
+		"word":"an abortive enterprise",
+		"meaning":"실패로 끝난 사업"
 	}, 
 	{
 		"level":2,
@@ -21579,7 +21579,7 @@
 		"local":998,
 		"global":3083,
 		"word":"allege",
-		"meaning":"증거없이 주장하다"
+		"meaning":"증거 없이 주장하다"
 	}, 
 	{
 		"level":2,
@@ -21641,7 +21641,7 @@
 		"level":2,
 		"local":1007,
 		"global":3092,
-		"word":"indamous",
+		"word":"infamous",
 		"meaning":"악명 높은, 평판이 나쁜"
 	}, 
 	{
@@ -21684,7 +21684,7 @@
 		"local":1013,
 		"global":3098,
 		"word":"Police dispersed the crowd that had gathered around the building.",
-		"meaning":"경찰들은 그 건문 주변에 모였떤 군중들을 해산시켰다."
+		"meaning":"경찰들은 그 건물 주변에 모였던 군중들을 해산시켰다."
 	}, 
 	{
 		"level":2,
@@ -21718,7 +21718,7 @@
 		"level":2,
 		"local":1018,
 		"global":3103,
-		"word":"appretice",
+		"word":"apprentice",
 		"meaning":"견습, 도제"
 	}, 
 	{
@@ -21782,7 +21782,7 @@
 		"local":1027,
 		"global":3112,
 		"word":"He embodied democratic ideas in the speech.",
-		"meaning":"민주주의 사상르 연설로써 구체적으로 나타냈다."
+		"meaning":"민주주의 사상을 연설로 구체적으로 나타냈다."
 	}, 
 	{
 		"level":2,
@@ -21824,7 +21824,7 @@
 		"local":1033,
 		"global":3118,
 		"word":"jaywalk",
-		"meaning":"무단힝단하다"
+		"meaning":"무단 횡단하다"
 	}, 
 	{
 		"level":2,
@@ -21858,7 +21858,7 @@
 		"level":2,
 		"local":1038,
 		"global":3123,
-		"word":"intution",
+		"word":"intuition",
 		"meaning":"직감, 직관"
 	}, 
 	{
@@ -21879,7 +21879,7 @@
 		"level":2,
 		"local":1041,
 		"global":3126,
-		"word":"Tehy are indulgent with [to] their children.",
+		"word":"They are indulgent with [to] their children.",
 		"meaning":"그들은 아이들의 요구나 응석을 다 받아준다."
 	}, 
 	{
@@ -21949,7 +21949,7 @@
 		"level":2,
 		"local":1051,
 		"global":3136,
-		"word":"the eternal and immutable principes of right and weong.",
+		"word":"the eternal and immutable principles of right and wrong.",
 		"meaning":"영원하고 불변의 옳고 그름에 대한 원칙들"
 	}, 
 	{
@@ -22006,7 +22006,7 @@
 		"local":1059,
 		"global":3144,
 		"word":"detest",
-		"meaning":"몹시 싫어하다, 협오하다"
+		"meaning":"몹시 싫어하다, 혐오하다"
 	}, 
 	{
 		"level":2,
@@ -22068,8 +22068,8 @@
 		"level":2,
 		"local":1068,
 		"global":3153,
-		"word":"This frug will dilate the art eries.",
-		"meaning":"이 약을 동맥을 팽찰시킬 것이다."
+		"word":"The air becomes dilated by the heat.",
+		"meaning":"공기는 열에 의해 팽창한다."
 	}, 
 	{
 		"level":2,
@@ -22153,14 +22153,14 @@
 		"local":1080,
 		"global":3165,
 		"word":"aesthetic",
-		"meaning":"미하적인"
+		"meaning":"미학적인"
 	}, 
 	{
 		"level":2,
 		"local":1081,
 		"global":3166,
 		"word":"The new building has little aesthetic value.",
-		"meaning":"그 새로운 빌딩은 미하적 가치가 거의 없다."
+		"meaning":"그 새로운 빌딩은 미학적 가치가 거의 없다."
 	}, 
 	{
 		"level":2,
@@ -22194,7 +22194,7 @@
 		"level":2,
 		"local":1086,
 		"global":3171,
-		"word":"rebel against the oppositon party",
+		"word":"rebel against the opposition party",
 		"meaning":"야당에 반항하다"
 	}, 
 	{
@@ -22237,7 +22237,7 @@
 		"local":1092,
 		"global":3177,
 		"word":"wary",
-		"meaning":"신중하는, 조심하는"
+		"meaning":"신중한, 조심하는"
 	}, 
 	{
 		"level":2,
@@ -22258,7 +22258,7 @@
 		"local":1095,
 		"global":3180,
 		"word":"I fare better than before.",
-		"meaning":"난 전보다 더 잘지낸다."
+		"meaning":"난 전보다 더 잘 지낸다."
 	}, 
 	{
 		"level":2,
@@ -22299,7 +22299,7 @@
 		"level":2,
 		"local":1101,
 		"global":3186,
-		"word":"His power waned after hs was defeated in the election.",
+		"word":"His power waned after he was defeated in the election.",
 		"meaning":"그의 권력은 선거에서 패배한 이후에 약화되었다."
 	}, 
 	{
@@ -22313,7 +22313,7 @@
 		"level":2,
 		"local":1103,
 		"global":3188,
-		"word":"Trust is vital in maintaiing wholesome relationship.",
+		"word":"Trust is vital in maintaining wholesome relationship.",
 		"meaning":"신뢰는 건전한 간계를 유지하는 데 있어서 매우 중요하다."
 	}, 
 	{
@@ -22369,7 +22369,7 @@
 		"level":2,
 		"local":1111,
 		"global":3196,
-		"word":"I tantalized my cat with cheeze.",
+		"word":"I tantalized my cat with cheese.",
 		"meaning":"나는 치즈를 가지고 내 고양이를 감질나게 했다."
 	}, 
 	{
