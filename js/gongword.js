@@ -94,7 +94,7 @@ function voice (str, lang) {
       let volumeNum = (data.sound === 1) ? 1 : 0;
       switch (lang) {
         case "english":
-          actor = "US English Female";
+          actor = "UK English Female";
           speed = data.soundspeed / 100;
           break;
         case "korean":
